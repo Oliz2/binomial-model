@@ -1,0 +1,7 @@
+# Esclude tutti i file compilati e gli archivi generati da Maven
+/target/
+
+# Esclude i file di configurazione specifici di Eclipse
+.classpath
+.project
+.settings/
